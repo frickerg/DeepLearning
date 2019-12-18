@@ -8,7 +8,7 @@ The aim of this exercise is to start an empirical (experimental) investigation i
 
 We will use the following system for our experimentation:
 
-[https://colab.research.google.com/github/lexfridman/mit-deep-learning/blob/master/tutorial_driving_scene_segmentation/tutorial_driving_scene_segmentation.ipynb]
+https://colab.research.google.com/github/lexfridman/mit-deep-learning/blob/master/tutorial_driving_scene_segmentation/tutorial_driving_scene_segmentation.ipynb
 
 ## Testing new images
 
