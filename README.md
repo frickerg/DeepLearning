@@ -1,6 +1,8 @@
 Berner Fachhochschule
 Herbstsemester 2019/2020 
+Gruppe: Gund, Fricker, Reichenpfader 
 
-# Modul: Deep Learning
+# Deep Learning Gruppenaufgaben
 
-## Gruppe: Gund, Fricker, Reichenpfader
+
+
